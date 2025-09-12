@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Simba! 
 
-<!--
-**S-phiri/S-phiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Analyst | Aspiring Data/BI Professional | Web Developer**  
+📍 Based in South Africa | Open to global opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Investment Management graduate with tech & finance background  
+- 🛠️ Currently upskilling in Web Development (React, Django)  
+- 📊 Exploring Data Analytics, BI, and Cloud skills  
+- 💡 Passionate about tech, finance, and creating solutions for Africa  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: Python, JavaScript (React, Node.js), SQL  
+- **Tools**: Git, VS Code, Excel, Pandas, Django  
+- **Other**: Financial Modelling, Data Analysis  
+
+---
+
+### 📌 Featured Projects
+- 🛒 [E-commerce Webstore (React)](your-link-here)  
+- 💈 [Barber Booking App (Django + React)](your-link-here)  
+- 📊 [Personal Finance Dashboard](your-link-here)  
+
+---
+
+### 🌍 Connect With Me
+- 🔗 [LinkedIn][(https://www.linkedin.com/in/simba-phiri-08a374195/))]  
+- 🌐 [Portfolio Website](your-link-here, once live)  
