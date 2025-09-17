@@ -22,7 +22,7 @@
 
 ### 📌 Featured Projects
 - 🛒 [E-commerce Webstore (React)](your-link-here)  
-- 💈 [Barber Booking App (Django + React)](your-link-here)  
+- 💈 [Barber Booking App (Django + React)](https://github.com/S-phiri/barber-site)  
 - 📊 [Personal Finance Dashboard](your-link-here)  
 
 ---
