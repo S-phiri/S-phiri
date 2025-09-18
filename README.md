@@ -9,7 +9,7 @@
 - 🎓 Investment Management graduate with tech & finance background  
 - 🛠️ Currently upskilling in Web Development (React, Django)  
 - 📊 Exploring Data Analytics, BI, and Cloud skills  
-- 💡 Passionate about tech, finance, and creating solutions for Africa  
+- 💡 Passionate about tech, finance, and creating solutions 
 
 ---
 
