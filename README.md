@@ -28,5 +28,5 @@
 ---
 
 ### 🌍 Connect With Me
-- 🔗 [LinkedIn][https://www.linkedin.com/in/simba-phiri-08a374195/]  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/simba-phiri-08a374195/)  
 - 🌐 [Portfolio Website](Still in development)  
