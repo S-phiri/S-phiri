@@ -21,9 +21,11 @@
 ---
 
 ### 📌 Featured Projects
+- ⚽ [TourneyPRO - Tournament site](https://github.com/S-phiri/TourneyPro)
 - 🛒 [E-commerce Webstore (React)](your-link-here)  
 - 💈 [Barber Booking App (Django + React)](https://github.com/S-phiri/barber-site)  
-- 📊 [Personal Finance Dashboard](https://github.com/S-phiri/quantify)  
+- 📊 [Personal Finance Dashboard](https://github.com/S-phiri/quantify)
+
 
 ---
 
