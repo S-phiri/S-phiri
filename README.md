@@ -1,34 +1,61 @@
-# Hi, I'm Simba! 
+Hi, I'm Simba
 
-💻 **Analyst | Aspiring Data/BI Professional | Web Developer**  
-📍 Based in South Africa | Open to global opportunities  
+💻 Data & Investment Analyst | Full-Stack Developer (React/Django)
+🌍 Building scalable, data-driven digital infrastructure for Africa
+📍 Based in South Africa | Open to global opportunities
 
----
+🚀 About Me
 
-### 🚀 About Me
-- 🎓 Investment Management graduate with tech & finance background  
-- 🛠️ Currently upskilling in Web Development (React, Django)  
-- 📊 Exploring Data Analytics, BI, and Cloud skills  
-- 💡 Passionate about tech, finance, and creating solutions 
+I’m an Investment Management graduate with a strong foundation in finance, data, and systems thinking.
 
----
+My work sits at the intersection of:
 
-### 🛠️ Tech Stack
-- **Languages**: Python, JavaScript (React, Node.js), SQL  
-- **Tools**: Git, VS Code, Excel, Pandas, Django  
-- **Other**: Financial Modelling, Data Analysis  
+📊 Investment & financial analysis
 
----
+💡 Data-driven decision making
 
-### 📌 Featured Projects
-- ⚽ [TourneyPRO - Tournament site](https://github.com/S-phiri/TourneyPro)
-- 🛒 [E-commerce Webstore (React)](your-link-here)  
-- 💈 [Barber Booking App (Django + React)](https://github.com/S-phiri/barber-site)  
-- 📊 [Personal Finance Dashboard](https://github.com/S-phiri/quantify)
+🛠️ Full-stack product development
 
+I’m currently building and deploying real-world applications — from tournament platforms to finance dashboards — while deepening my skills in analytics, BI, and cloud technologies.
 
----
+I care about structure, scalability, and building solutions that solve real economic and infrastructure challenges across African markets.
 
-### 🌍 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/simba-phiri-08a374195/)  
-- 🌐 [Portfolio Website](Still in development)  
+🛠️ Tech Stack
+
+Languages
+Python | JavaScript (React, Node.js) | SQL
+
+Frameworks & Tools
+Django | Git | VS Code | Pandas | Excel
+
+Core Competencies
+Financial Modelling (DCF, Valuation)
+Data Analysis & Dashboarding
+SaaS Product Development
+System Design Thinking
+
+📌 Featured Projects
+
+⚽ TourneyPRO – Tournament Platform
+Digital infrastructure for managing tournaments, players, and performance tracking.
+🔗 https://github.com/S-phiri/TourneyPro
+
+🛒 E-commerce Webstore (React)
+Frontend-focused commerce application with scalable component architecture.
+🔗 (Add link here)
+
+💈 Barber Booking App (Django + React)
+Full-stack booking system with backend logic and API integration.
+🔗 https://github.com/S-phiri/barber-site
+
+📊 Quantify – Personal Finance Dashboard
+Data-driven finance tracking and analytics application.
+🔗 https://github.com/S-phiri/quantify
+
+🌍 Connect With Me
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/simba-phiri-08a374195/
+
+🌐 Portfolio Website:
+Currently refining and deploying
