@@ -1,4 +1,4 @@
-Hi,# Hi, I'm Simba 👋
+# Hi, I'm Simba 👋
 
 **Data & Investment Analyst | Full-Stack Developer (React/Django)**  
 Building scalable, data-driven digital infrastructure for Africa  
