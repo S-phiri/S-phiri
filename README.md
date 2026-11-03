@@ -2,7 +2,7 @@
 
 **AI engineer and full-stack developer.** I build LLM-powered products that real people use: WhatsApp agents, RAG tutoring bots and payment-backed web apps for African markets.
 
-📍 Lusaka, Zambia · open to remote and Cape Town roles · [LinkedIn](https://www.linkedin.com/in/simba-phiri-08a374195/)
+open to remote and Cape Town roles · [LinkedIn](https://www.linkedin.com/in/simba-phiri-08a374195/)
 
 ---
 
